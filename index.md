@@ -1,28 +1,46 @@
 ---
-title: "Home"
+title: "Accueil"
 ---
 
 <!-- Inline carousel-only styles (kept here so they don't clash with grid) -->
 <style>
-  .carousel { position: relative; overflow: hidden; }
+  .carousel { 
+    position: relative; 
+    overflow: hidden; 
+  }
+
   .carousel-track {
     display: flex;
     gap: 1rem;
-    flex-wrap: nowrap;        /* keep in one row */
+    flex-wrap: nowrap;
     overflow-x: auto;
     scroll-behavior: smooth;
     padding-bottom: .25rem;
-    -ms-overflow-style: none; /* IE/Edge */
-    scrollbar-width: none;    /* Firefox */
+    -ms-overflow-style: none;
+    scrollbar-width: none;
   }
-  .carousel-track::-webkit-scrollbar { display: none; } /* WebKit */
-  .carousel .card { flex: 0 0 300px; } /* slide width */
+
+  .carousel-track::-webkit-scrollbar { 
+    display: none; 
+  }
+
+  .carousel .card { 
+    flex: 0 0 300px; 
+  }
+
+  .profile-pic {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+  }
 </style>
 
 <section id="about" class="section">
   <div class="about-container">
     <img src="{{ '/assets/images/image hugo.png' | relative_url }}"
-         alt="Michael Shoemaker"
+         alt="Hugo Morais"
          class="profile-pic">
 
     <div class="about-text">
