@@ -46,12 +46,12 @@ title: "Accueil"
 
     <div class="about-text">
       <h1>Hello World! I'm Hugo Morais</h1>
-      <p>Junior Data Engineer | Etudiant </p>
+      <p>Junior Data Engineer / Data Analyst | Student </p>
       <p>I build practical, production-like data engineering systems — orchestration, storage, transformations, serving, and observability — then explain the decisions behind them.</p>
-      <p><strong>Core skills:</strong> Python · SQL  · Big data · Cloud  · Docker · GCP</p>
+      <p><strong>Core skills:</strong>  Python · SQL  · Big data · Cloud Computing .P</p>
 
       <p class="social-links">
-        <a href="https://www.linkedin.com/in/hugo-morais-dsti/" target="_blank" aria-label="LinkedIn">
+        <a href="https://www.linkedin.com/in/hugomoraiss/" target="_blank" aria-label="LinkedIn">
           <i class="fa-brands fa-linkedin"></i>
         </a>
       
