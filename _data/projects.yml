@@ -1,3 +1,8 @@
+- title: "DevOps User API"
+  description: "RESTful User API with MariaDB, covering the full DevOps lifecycle: IaC, Docker, CI, and Kubernetes orchestration."
+  link: "https://github.com/TON_GITHUB/TON_REPO"
+  stack: "Python · MariaDB · IaC · Docker · CI · Kubernetes"
+
 - title: "Student Grades ETL"
   description: "Mini ETL pipeline that processes student grades and exports the data to JSON."
   link: "https://github.com/hugo-morais/Mini-ETL.git"
