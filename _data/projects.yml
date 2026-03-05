@@ -2,13 +2,15 @@
   description: "RESTful User API with MariaDB, covering the full DevOps lifecycle: IaC, Docker, CI, and Kubernetes orchestration."
   link: "https://github.com/hugo-morais/DevOps-Final-Project-FastAPI.git"
   stack: "Python · MariaDB · IaC · Docker · CI · Kubernetes"
+  image: "/assets/images/projects/devops-user-api.jpg"
 
 - title: "Student Grades ETL"
   description: "Mini ETL pipeline that processes student grades and exports the data to JSON."
   link: "https://github.com/hugo-morais/Mini-ETL.git"
   stack: "Python · JSON · Data Processing"
-
+  image: "/assets/images/projects/devops-user-api.jpg"
 - title: "Stock Management System"
   description: "Command-line application in C++ to manage store inventory and sales."
   link: "https://github.com/hugo-morais/Gestionnaire-de-stock-.git"
   stack: "C++"
+  image: "/assets/images/projects/devops-user-api.jpg"
