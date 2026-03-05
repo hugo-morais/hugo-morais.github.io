@@ -32,8 +32,8 @@ title: "Accueil"
     width: 220px;
     height: 220px;
     border-radius: 50%;
-    object-fit: cover;
-    object-position: center;
+    object-fit: contain;
+
   }
 </style>
 
