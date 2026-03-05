@@ -47,7 +47,7 @@ title: "Accueil"
     <div class="about-text">
       <h1>Hello World! I'm Hugo Morais</h1>
       <p>Junior Data Engineer / Data Analyst | Student </p>
-      <p>I build practical, production-like data engineering systems — orchestration, storage, transformations, serving, and observability — then explain the decisions behind them.</p>
+      <p>Curious about data and technology, I enjoy building projectsthat explore how data can be processed, transformed, and analyzed.</p>
       <p><strong>Core skills:</strong>  Python · SQL  · Big data · Cloud Computing .P</p>
 
       <p class="social-links">
