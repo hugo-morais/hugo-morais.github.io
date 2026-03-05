@@ -29,12 +29,12 @@ title: "Accueil"
   }
 
   .profile-pic {
-    width: 220px;
-    height: 220px;
-    border-radius: 50%;
-    object-fit: contain;
-
-  }
+    width: 180px;
+    height: 180px;
+     border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+}
 </style>
 
 <section id="about" class="section">
