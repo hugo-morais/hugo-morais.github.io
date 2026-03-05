@@ -30,7 +30,7 @@ title: "Accueil"
 
   .profile-pic {
     width: 180px;
-    height: 180px;
+    height: 150px;
      border-radius: 50%;
     object-fit: cover;
     object-position: center;
