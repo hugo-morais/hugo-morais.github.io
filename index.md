@@ -48,7 +48,7 @@ title: "Accueil"
       <h1>Hello World! I'm Hugo Morais</h1>
       <p>Junior Data Engineer / Data Analyst | Student </p>
       <p>Curious about data and technology, I enjoy building projectsthat explore how data can be processed, transformed, and analyzed.</p>
-      <p><strong>Core skills:</strong>  Python · SQL  · Big data · Cloud Computing .P</p>
+      <p><strong>Core skills:</strong>  Python · SQL  · Big data · Cloud Computing </p>
 
       <p class="social-links">
         <a href="https://www.linkedin.com/in/hugomoraiss/" target="_blank" aria-label="LinkedIn">
