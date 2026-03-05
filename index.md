@@ -28,12 +28,13 @@ title: "Accueil"
     flex: 0 0 300px; 
   }
 
-  .profile-pic {
-    width: 220px;
-    height: 220px;
-    border-radius: 50%;
-    object-fit: cover;
-    object-position: center 30%;
+.profile-pic {
+   width: 220px;
+   height: 220px;
+   border-radius: 50%;
+   object-fit: cover;
+   object-position: center 25%;
+   transform: scale(0.9);
 }
 </style>
 
