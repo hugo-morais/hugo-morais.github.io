@@ -1,6 +1,6 @@
 - title: "DevOps User API"
   description: "RESTful User API with MariaDB, covering the full DevOps lifecycle: IaC, Docker, CI, and Kubernetes orchestration."
-  link: "https://github.com/TON_GITHUB/TON_REPO"
+  link: "https://github.com/hugo-morais/DevOps-Final-Project-FastAPI.git"
   stack: "Python · MariaDB · IaC · Docker · CI · Kubernetes"
 
 - title: "Student Grades ETL"
