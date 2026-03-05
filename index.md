@@ -29,11 +29,11 @@ title: "Accueil"
   }
 
   .profile-pic {
-    width: 180px;
-    height: 150px;
-     border-radius: 50%;
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
     object-fit: cover;
-    object-position: center;
+    object-position: center 30%;
 }
 </style>
 
